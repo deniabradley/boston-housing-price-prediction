@@ -1,4 +1,3 @@
-# boston-housing-price-prediction
 # Boston Housing Price Prediction
 
 ## 📘 Overview
